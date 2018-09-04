@@ -1,2 +1,6 @@
 # hello-world
-Creating my first repository
+
+Hi all,
+
+I am editing the file now...
+As per instructed by GitHub.
